@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://img.icons8.com/color/96/whatsapp--v1.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 1,
+    "description": "WhatsApp redefines how people stay connected by offering a seamless, secure, and lightning-fast messaging experience. Unlike traditional SMS, it uses your internet connection to send messages, eliminating costs while maintaining rich communication features. The app supports end-to-end encryption across all conversations, ensuring your private messages remain truly private. Beyond text, WhatsApp lets you share photos, videos, documents, and your live location, making it a complete communication hub. Voice and video calls are crystal clear even on slower connections, and group calls support up to eight participants simultaneously.\n\nThe Status feature allows you to share moments from your day that disappear after 24 hours, similar to stories on other platforms. WhatsApp Business has transformed how small businesses interact with customers, enabling automated replies, catalogs, and professional profiles. The desktop app syncs perfectly with your phone, allowing you to continue conversations from your computer without interruption. Communities bring together multiple groups under one umbrella, perfect for schools, organizations, or neighborhood networks.\n\nWhether you are coordinating with your family, collaborating with colleagues, or catching up with old friends, WhatsApp ensures the conversation never stops. Its minimalist design keeps the focus on communication, and regular updates continue to add thoughtful features without cluttering the experience. With over two billion active users worldwide, WhatsApp is not just a messaging app but the backbone of global digital communication, trusted by individuals and businesses alike every single day.",
+    "size": 45.6,
+    "reviews": 125430,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 8500 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 79230 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "YouTube has evolved far beyond a simple video platform into a global ecosystem of content, creativity, and community. With over two billion logged-in users each month, it serves as the world's second-largest search engine and the go-to destination for video content of every kind. From educational tutorials and documentary films to live concerts and gaming streams, YouTube hosts an almost incomprehensible variety of content that caters to every interest and age group imaginable.\n\nCreators from every corner of the world can build audiences, monetize their work, and connect with viewers on a deeply personal level. The recommendation algorithm continuously learns your preferences, surfacing videos you did not know you needed but cannot stop watching. YouTube Premium removes ads entirely and adds background playback, which is invaluable for listening to podcasts and music while using other apps. The Shorts feature brings vertical short-form video to a massive audience, allowing creators to grow faster than ever before.\n\nOffline downloads let you save videos for flights, commutes, and areas without reliable internet access. Chapters, transcripts, and multilingual subtitles make content more accessible to global audiences. For businesses, YouTube Ads provide unmatched reach and targeting precision. Whether you are learning a new skill, staying entertained, or launching a career as a creator, YouTube is the definitive platform for video in the modern world and a cultural institution that shapes how humanity shares knowledge and creativity.",
+    "size": 78.3,
+    "reviews": 340000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 98000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "Instagram has transformed from a simple photo-sharing app into one of the most powerful social media platforms in the world. It serves as a creative canvas where individuals, brands, and businesses tell their stories through stunning visuals and engaging video content. The app's intuitive interface makes it effortless to capture, edit, and share moments from your daily life with filters and editing tools that make every photo look professionally crafted.\n\nReels allow creators to produce short, entertaining videos that can reach millions of people beyond their existing followers. Stories offer a more casual, temporary way to share updates that disappear after 24 hours, creating a sense of urgency and authenticity. The Explore page is a personalized discovery engine that introduces you to new accounts, trends, and content aligned with your interests. Instagram Shopping has revolutionized e-commerce by allowing brands to tag products directly in posts, creating a seamless path from inspiration to purchase.\n\nFor businesses, the detailed analytics dashboard provides insights into audience demographics, engagement rates, and content performance. Collaborations between creators have become easier with the Collab feature, which allows two accounts to co-author a single post. Direct messages support text, voice messages, photos, and video calls, making Instagram a complete social platform. Whether you are a photographer, entrepreneur, or simply someone who loves staying connected, Instagram offers an endlessly engaging experience tailored to your world and your story.",
+    "size": 62.1,
+    "reviews": 289000,
+    "ratingAvg": 4.2,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 85000 },
+      { "name": "5 star", "count": 165000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/spotify--v1.png",
+    "title": "Spotify Music",
+    "companyName": "Spotify AB",
+    "id": 4,
+    "description": "Spotify has fundamentally changed how the world listens to music by making virtually every song ever recorded available at your fingertips. With a library exceeding 100 million tracks and 5 million podcasts, it is the undisputed leader in audio streaming. The platform's recommendation engine is remarkably intelligent, learning your taste over time to create personalized playlists like Discover Weekly and Daily Mixes that feel like they were curated by someone who truly knows you.\n\nCollaborative playlists allow friends to contribute songs, making it perfect for road trips and parties. Spotify Connect lets you seamlessly transfer playback between your phone, computer, smart speaker, and television without interrupting the music. The lyrics feature displays synchronized text in real time, turning every listening session into a singalong. Podcasts are deeply integrated into the platform, and exclusive shows from top creators make Spotify the destination for audio storytelling and long-form entertainment.\n\nFor artists, Spotify for Artists provides detailed streaming analytics, helping musicians understand their audience and grow their reach. The free tier with ads gives everyone access to the full library, while Premium removes interruptions and enables offline downloads. Spotify Wrapped, released at the end of each year, has become a cultural phenomenon that millions of users eagerly share on social media. It is not just a music app but a companion for every mood, moment, and milestone in your life, making every ordinary day feel like it has its own perfect soundtrack.",
+    "size": 55.8,
+    "reviews": 198000,
+    "ratingAvg": 4.6,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 52000 },
+      { "name": "5 star", "count": 129700 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 5,
+    "description": "Facebook remains one of the most widely used social platforms in the world, connecting billions of people across cultures, languages, and borders. At its core, the platform is built around the human desire to share, connect, and belong. Your News Feed curates a personalized stream of updates from friends, family, groups, and pages you follow, keeping you informed about the people and topics that matter most to you every single day.\n\nFacebook Groups have become powerful communities where people bond over shared interests and support each other through life's challenges. Marketplace has evolved into a thriving local commerce platform where you can buy and sell items in your neighborhood with remarkable ease. Facebook Watch delivers a steady stream of video content ranging from live sports to original shows. Events help you discover what is happening around you and coordinate gatherings with friends effortlessly, bridging the gap between digital connection and real-world interaction.\n\nFor businesses, Facebook Ads offers the most sophisticated targeting system in digital marketing, reaching specific demographics with surgical precision. Memories reminds you of past posts and photos, creating nostalgic moments that deepen your connection to the platform. The Messenger integration ensures that your conversations are always just one tap away. Despite the rise of newer platforms, Facebook continues to evolve and remain relevant by adapting to changing user needs, serving as the digital town square where communities are built, maintained, and strengthened every day.",
+    "size": 80.4,
+    "reviews": 412000,
+    "ratingAvg": 3.9,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 204000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/google-maps-new.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Google Maps has redefined how people navigate the world, turning the daunting task of finding your way into a simple, stress-free experience. With over 220 countries and territories mapped in extraordinary detail, it is the most comprehensive geographic database ever created. Real-time traffic data powered by millions of users means you always get the fastest route, automatically rerouting around accidents and congestion before you even encounter them on the road.\n\nStreet View transports you to any location on Earth, allowing you to virtually explore destinations before visiting in person. The Explore tab helps you discover nearby restaurants, cafes, attractions, and services with ratings, photos, and reviews from the community. Indoor maps navigate you through complex spaces like airports, shopping malls, and stadiums, eliminating the frustration of getting lost indoors. Offline maps allow you to download entire regions for navigation without an internet connection, perfect for international travel in areas with limited data.\n\nFor businesses, Google My Business integration ensures your location, hours, and contact details are always accurate and visible to potential customers. Route planning supports multiple stops, making it easy to optimize a full day of errands or a multi-city road trip. Public transit information covers buses, trains, subways, and ferries in hundreds of cities worldwide. Whether you are commuting to work, exploring a foreign city, or planning an epic adventure, Google Maps is the indispensable companion that always knows the way and makes every journey smoother, smarter, and more enjoyable.",
+    "size": 120.5,
+    "reviews": 320000,
+    "ratingAvg": 4.7,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 226800 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/netflix--v1.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 7,
+    "description": "Netflix has single-handedly transformed the entertainment industry by pioneering the streaming revolution and making on-demand content the new standard for how people watch television and film. With a library containing thousands of movies, series, documentaries, and stand-up specials, there is always something perfectly suited to your mood. Netflix Originals have achieved global cultural impact, producing critically acclaimed series and films that dominate awards seasons and social media conversations around the world.\n\nThe recommendation algorithm analyzes your viewing history with remarkable depth, suggesting titles that consistently surprise and delight you. Multiple profiles on a single account ensure that each family member gets a personalized experience without interference from others' viewing habits. The download feature allows you to save content for offline viewing, transforming long flights and commutes into productive entertainment sessions. Variable playback speed lets you watch at your own pace, whether you want to binge quickly or savor every carefully crafted scene.\n\nInteractive storytelling experiences give viewers agency over narratives, pioneering a new form of entertainment that blurs the line between watching and playing. With content produced in dozens of languages and available in over 190 countries, Netflix has become the world's most universal entertainment platform. Whether you are discovering a new favorite series, rewatching a beloved classic, or exploring foreign-language cinema, Netflix delivers a consistently premium experience across every device and delivers stories that transcend borders and connect humanity through the enduring power of great storytelling.",
+    "size": 95.2,
+    "reviews": 275000,
+    "ratingAvg": 4.4,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 72000 },
+      { "name": "5 star", "count": 177500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/telegram-app--v1.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "id": 8,
+    "description": "Telegram has built a loyal global following by prioritizing speed, security, and functionality in a way that no other messaging app has matched. Founded on the principle that privacy is a fundamental right, Telegram uses a distributed infrastructure spread across multiple countries to ensure that no single government or corporation can access your data. Secret Chats employ end-to-end encryption with self-destructing messages, giving users complete control over their digital footprint and communication history.\n\nChannels allow creators and media organizations to broadcast messages to unlimited audiences, making Telegram a powerful alternative to traditional publishing platforms. Supergroups support up to 200,000 members, enabling massive community discussions with advanced moderation tools. Bots have transformed Telegram into a versatile platform for automation, customer service, and productivity tools. The file sharing capability supports uploads of up to 2 GB per file with no compression, preserving the original quality of every photo, video, and document you share.\n\nVoice chats in groups create virtual meeting rooms where communities can gather and converse in real time without any time limits. Telegram's open API has spawned an entire ecosystem of third-party clients and integrations that extend its capabilities endlessly. Unlike many competitors, Telegram has no advertising and is funded by its founder, keeping the experience pure and uninterrupted. For people who value privacy, community, and functionality above all else, Telegram represents the gold standard in modern communication and continues to grow as the most trusted alternative to mainstream messaging platforms.",
+    "size": 38.7,
+    "reviews": 185000,
+    "ratingAvg": 4.6,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 48000 },
+      { "name": "5 star", "count": 124000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/tiktok--v1.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 9,
+    "description": "TikTok has disrupted the entire social media landscape by mastering short-form video in a way that makes scrolling feel effortless and endlessly rewarding. The For You Page is powered by one of the most sophisticated recommendation algorithms ever deployed in a consumer app, capable of understanding your tastes within minutes and delivering a perfectly curated feed. Unlike follower-based platforms, TikTok gives every creator an equal opportunity to go viral based purely on content quality, democratizing fame in a way that was previously impossible for ordinary people.\n\nTrends, sounds, and challenges spread across the platform with breathtaking speed, creating cultural moments that cross into mainstream media and daily conversation worldwide. Duets and Stitches allow creators to respond to and build upon each other's content collaboratively, fostering a uniquely creative community. TikTok Live enables real-time interaction between creators and their audiences, with gift-giving mechanics that provide creators with a direct income stream. The editing tools are impressively powerful for a mobile app, offering transitions, effects, and synchronized sound that make polished videos accessible to anyone.\n\nEducational content has found a surprisingly strong home on TikTok, with teachers, scientists, and experts building massive followings by making complex topics engaging and digestible for everyday audiences. TikTok Shop integrates e-commerce directly into the video experience, allowing seamless purchases without ever leaving the app. Whether you are a creator, a consumer, or a brand, TikTok offers an unparalleled platform for reaching and engaging the next generation of digital citizens and continues to reshape how the world creates, consumes, and connects through the universal language of short-form video.",
+    "size": 110.3,
+    "reviews": 520000,
+    "ratingAvg": 4.5,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 28000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 340000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 10,
+    "description": "Zoom emerged as the defining communication tool of the remote work era, providing a reliable and intuitive platform for video meetings that connected millions of people during a time of global separation. What began as a simple video conferencing tool has evolved into a comprehensive unified communications platform handling everything from one-on-one calls to massive virtual events with thousands of attendees. The audio and video quality is consistently excellent even on modest internet connections, thanks to intelligent bandwidth optimization that prioritizes clarity without requiring expensive hardware.\n\nVirtual backgrounds and video filters make every meeting look professional regardless of your physical environment. Breakout rooms enable facilitators to split large meetings into smaller discussion groups and bring everyone back together seamlessly, making remote workshops genuinely productive. Zoom Whiteboard provides a collaborative digital canvas for brainstorming sessions, and the AI Companion feature automatically generates meeting summaries so that no important decision or action item is ever forgotten or lost after a long call.\n\nThe Zoom Phone system brings enterprise-grade telephony to businesses of all sizes, replacing traditional phone systems with a fully cloud-based solution. Webinar mode allows businesses and educators to host polished broadcasts for large audiences with registration, Q&A, and polling features. The app integrates seamlessly with productivity tools like Slack, Google Calendar, and Microsoft Teams, fitting naturally into existing workflows. Whether you are running a global team, teaching a class, or hosting a virtual conference, Zoom provides the reliability and features that make remote communication feel as natural and productive as being in the same room.",
+    "size": 72.6,
+    "reviews": 142000,
+    "ratingAvg": 4.2,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 4500 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 79500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/snapchat--v1.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 11,
+    "description": "Snapchat pioneered the concept of ephemeral messaging and fundamentally changed how young people think about sharing their lives online. The core idea that photos and videos disappear after being viewed created a more authentic and pressure-free form of communication that resonated deeply with millions of users worldwide. This impermanence encourages spontaneity and honesty, allowing people to share genuine moments without the anxiety of building a permanent public record.\n\nStories revolutionized social media storytelling by allowing users to compile moments into a 24-hour narrative that friends can watch at their own pace. Snap Map gives you a real-time view of where your friends are and what is happening around the world, creating a sense of shared presence even across great distances. Lenses and Filters use augmented reality technology to transform your face and surroundings with playful, creative, and often hilarious effects that make every snap more entertaining and expressive than plain photos ever could be.\n\nSpotlight showcases the best public snaps from the community, giving talented creators a chance to reach audiences far beyond their friend groups. Snap Originals deliver exclusive shows and content produced specifically for the platform's unique vertical video format. The Friendship Profile feature archives shared memories, creating a private scrapbook of your relationship with each friend over time. Whether you are sending a quick funny face to your best friend, documenting a night out through Stories, or exploring creative AR experiences, Snapchat remains the most personal and playful social app available today.",
+    "size": 85.4,
+    "reviews": 230000,
+    "ratingAvg": 4.1,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/twitter--v1.png",
+    "title": "Twitter / X",
+    "companyName": "X Corp.",
+    "id": 12,
+    "description": "Twitter, now rebranded as X, has long served as the world's most influential real-time public conversation platform, where breaking news, cultural commentary, and global debates unfold simultaneously. The 280-character format forces clarity and wit, creating a unique communication style that has influenced how people write and think across the entire internet. From political movements to sports celebrations, the most significant moments in modern history have played out first on Twitter before spreading to every other corner of the media landscape.\n\nThe For You feed uses a powerful recommendation algorithm to surface the most relevant and engaging content, while the Following tab lets you stay focused on the accounts you have deliberately chosen to follow. Spaces brings live audio conversations to the platform, enabling anyone to host or join real-time discussions on any topic with audiences ranging from a handful of listeners to hundreds of thousands. Long-form posts allow for deeper analysis and storytelling beyond the classic character limit, expanding what creators can express on the platform.\n\nX Premium subscribers gain access to enhanced features including post editing, longer video uploads, reduced ads, and revenue sharing for creators who build substantial audiences. Lists help you organize accounts into curated feeds, cutting through the noise to focus on specific topics or communities. Communities create dedicated spaces for niche interests, bringing together people who share specific passions within the broader platform. Whether you are a journalist, activist, entertainer, or curious observer of the world, X remains the essential platform for following what is happening right now and having your voice heard in the global conversation.",
+    "size": 58.9,
+    "reviews": 310000,
+    "ratingAvg": 4.0,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 13000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 157000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com Inc.",
+    "id": 13,
+    "description": "Amazon Shopping has redefined retail by putting hundreds of millions of products from around the world into the palm of your hand, making virtually anything you could ever need available with just a few taps. The search and discovery experience is unmatched, allowing you to filter by price, rating, brand, and dozens of other attributes to find exactly what you are looking for among an overwhelming selection. Customer reviews provide genuine insights from real buyers, giving you the confidence to make informed purchasing decisions on everything from electronics to everyday household essentials.\n\nPrime membership elevates the entire experience with free same-day and next-day delivery that has set a new standard for what consumers expect from online shopping. Prime Video, Prime Music, and Prime Reading are included with membership, making it one of the best value subscriptions available anywhere. The personalized recommendation engine learns your preferences over time, surfacing relevant products and deals that feel genuinely useful rather than intrusive. Subscribe and Save automates the delivery of regularly used products at a discounted price, eliminating the need to reorder essentials manually.\n\nAmazon's third-party seller marketplace gives small businesses global reach, while buyer protections ensure that every purchase is safe and trustworthy. The app's augmented reality feature lets you visualize how furniture and home decor will look in your actual space before buying. Alexa integration allows voice-powered shopping directly from compatible devices. Whether you are hunting for the best deal, exploring new products, or managing your household needs, Amazon Shopping delivers an unparalleled combination of selection, convenience, and value that has made it the first destination for shoppers around the world.",
+    "size": 66.2,
+    "reviews": 265000,
+    "ratingAvg": 4.4,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5500 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 72000 },
+      { "name": "5 star", "count": 165500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 14,
+    "description": "LinkedIn is the world's largest professional network, connecting over 900 million professionals across every industry and country on Earth. It serves as the definitive platform for building and managing your professional identity, from your educational background and work history to your skills, endorsements, and portfolio of achievements. A well-crafted LinkedIn profile functions as a living resume that works for you around the clock, attracting recruiters, collaborators, and opportunities you never knew existed.\n\nThe job search functionality is the most powerful available, aggregating millions of listings and using AI to match you with roles that align with your experience and ambitions. Easy Apply allows you to submit applications to compatible jobs in seconds, dramatically reducing the friction of the job search process. LinkedIn Learning provides thousands of professional development courses taught by industry experts, helping you continuously upgrade your skills to stay relevant in a rapidly changing job market. The newsfeed surfaces industry insights, thought leadership articles, and updates from your professional network, keeping you informed about trends that matter to your career.\n\nCreator tools allow professionals to publish long-form articles, newsletters, and videos that establish their expertise and grow their audience within the professional community. Company pages give businesses a platform to share their culture, values, and opportunities, helping attract talent that aligns with their mission. Alumni tools help you reconnect with former classmates and colleagues, often leading to unexpected collaborations and career pivots. Whether you are actively job hunting, building your personal brand, recruiting top talent, or simply staying connected to your professional world, LinkedIn is the indispensable platform that turns professional relationships into tangible career opportunities.",
+    "size": 48.3,
+    "reviews": 178000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 99500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 15,
+    "description": "Uber transformed urban transportation by making it possible to summon a reliable ride from anywhere in the world with a single tap, eliminating the uncertainty and inconvenience of traditional taxi services. The app's real-time GPS tracking shows exactly where your driver is and provides an accurate arrival estimate, giving you complete transparency and control over your journey from the moment you request a ride. Upfront pricing means you always know the cost before you confirm, with no hidden fees or meter anxiety to worry about.\n\nUberX, Uber Comfort, Uber Black, and UberXL provide options for every budget and occasion, whether you need an affordable daily commute or a premium experience for a special evening out. The safety features are comprehensive, including driver background checks, real-time trip sharing with trusted contacts, emergency assistance, and anonymous communication between riders and drivers. Uber Eats has extended the platform's reach into food delivery, bringing restaurant meals from hundreds of local eateries directly to your door with the same speed and reliability as the ride service.\n\nUber for Business simplifies corporate travel management with centralized billing, expense reporting, and policy controls that save companies significant time and administrative overhead. Scheduled rides let you book in advance for important appointments, flights, and events, eliminating last-minute stress. Uber Green offers eco-conscious riders the option to request electric or hybrid vehicles, supporting a more sustainable future for urban mobility. Whether you are commuting through a familiar city or navigating an unfamiliar one, Uber provides the confidence and convenience that makes getting from one place to another effortless, affordable, and safe in over 70 countries worldwide.",
+    "size": 90.1,
+    "reviews": 195000,
+    "ratingAvg": 4.2,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 7500 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 58000 },
+      { "name": "5 star", "count": 103500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/google-play.png",
+    "title": "Google Play Games",
+    "companyName": "Google LLC",
+    "id": 16,
+    "description": "Google Play Games serves as the central hub for Android gaming, bringing together millions of players and thousands of titles under one unified platform that celebrates gaming achievement and community. The app automatically syncs your game progress to the cloud, meaning you can switch between devices without ever losing your save data or hard-earned progress. Achievements and leaderboards add a competitive dimension to your favorite games, motivating you to push further and compare your performance with friends and players around the world.\n\nThe Play Games profile builds a public record of your gaming history, showcasing your achievements and favorite titles to the community. Featured collections and personalized recommendations help you discover new games matched to your preferences, ensuring you never run out of great titles to explore. Instant games allow you to try select titles without downloading them first, reducing the friction of discovering new favorites. The platform also highlights editors' picks and trending games, keeping you aware of the best new releases as they arrive.\n\nMultiplayer matchmaking connects you with other players for cooperative and competitive experiences across supported titles. Google Play Pass subscription provides unlimited access to a curated library of premium games and apps without ads or in-app purchases, delivering exceptional value for dedicated gamers. The integration with Google accounts means your gaming data is secure and always accessible. Whether you are a casual player who enjoys quick puzzle games or a hardcore gamer seeking epic adventures, Google Play Games provides the infrastructure and community that makes mobile gaming more rewarding, connected, and enjoyable every single day.",
+    "size": 42.5,
+    "reviews": 155000,
+    "ratingAvg": 4.1,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 5500 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 80500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/discord-logo.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 17,
+    "description": "Discord began as a communication platform for gamers but has evolved into one of the most versatile and beloved community platforms on the internet, serving everyone from study groups and book clubs to massive fan communities and professional teams. The server system allows you to create fully customized spaces with separate channels for different topics, voice rooms for real-time conversations, and detailed permission systems that give administrators precise control over who can see and do what within their community.\n\nVoice channels provide crystal-clear audio for gaming sessions, virtual hangouts, and team meetings without requiring a scheduled call or sending an invitation link. The video and screen sharing features make Discord equally useful for remote collaboration, allowing you to present work, watch videos together, or walk teammates through technical problems with ease. Bots extend the platform's functionality enormously, automating moderation tasks, playing music, running games, providing information, and performing countless other functions that communities rely on daily.\n\nNitro subscription unlocks enhanced features including animated avatars, custom emojis across all servers, higher quality video streaming, and larger file uploads that power users appreciate deeply. Server boosting allows community members to collectively upgrade their server's features as a show of support and investment in their shared space. Threads keep conversations organized within channels, preventing important discussions from getting buried under unrelated messages. Whether you are coordinating a raid with your gaming guild, studying with classmates, or building a community around your creative work, Discord provides the most flexible and feature-rich environment for bringing people together around shared passions.",
+    "size": 52.3,
+    "reviews": 210000,
+    "ratingAvg": 4.5,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 2800 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 58000 },
+      { "name": "5 star", "count": 131700 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/canva.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 18,
+    "description": "Canva has democratized graphic design by making professional-quality visual creation accessible to absolutely everyone, regardless of design experience or technical skill. The drag-and-drop interface is beautifully intuitive, allowing you to create stunning social media graphics, presentations, posters, logos, and marketing materials in minutes rather than the hours that traditional design software would require. With hundreds of thousands of templates designed by professional designers, you always have an inspiring starting point that you can customize to perfectly match your brand and vision.\n\nThe asset library contains millions of stock photos, illustrations, icons, videos, and audio tracks, eliminating the need to source creative assets from multiple platforms. Brand Kit allows businesses to save their colors, fonts, and logos for consistent application across all designs, ensuring every piece of content reinforces the same professional identity. Real-time collaboration lets multiple team members work on the same design simultaneously, making it perfect for marketing teams, agencies, and student groups who need to create together efficiently.\n\nCanva AI features like Magic Design, Magic Write, and background removal have made the platform even more powerful, allowing users to generate designs, write copy, and edit images with simple text prompts. The mobile app brings full design capability to your smartphone, so you can create and edit on the go without compromising quality or functionality. Canva for Education provides free access to premium features for teachers and students, supporting creativity in classrooms around the world. Whether you are a small business owner, a marketing professional, a student, or simply someone who wants to create beautiful things, Canva is the most powerful and accessible design tool ever built for non-designers.",
+    "size": 68.9,
+    "reviews": 245000,
+    "ratingAvg": 4.8,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 8500 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 179000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/google-drive--v1.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 19,
+    "description": "Google Drive has fundamentally changed how people store, organize, and share digital files by moving everything to the cloud and making your documents accessible from any device, anywhere in the world, at any time. The 15 GB of free storage provided with every Google account is enough for most users to store years of documents, photos, and files without ever paying a subscription fee. The search functionality is extraordinarily powerful, capable of finding files by name, content, file type, and even text within scanned images using optical character recognition technology.\n\nGoogle Docs, Sheets, and Slides are fully integrated into Drive, providing a complete suite of productivity tools that rival Microsoft Office without requiring any software installation or licensing fees. Real-time collaboration is perhaps Drive's most transformative feature, allowing multiple people to edit the same document simultaneously while seeing each other's changes instantly, eliminating the chaos of emailing file versions back and forth. Comments and suggestions make the review and feedback process organized and trackable, with a complete history of every change ever made to a document preserved indefinitely.\n\nShared drives give teams a centralized space for collective files that remains accessible even when individual members leave the organization, solving a common problem that has frustrated businesses for years. Offline mode allows you to view and edit files without an internet connection, with changes syncing automatically when you reconnect. Integration with hundreds of third-party apps extends Drive's capabilities in every direction imaginable. Whether you are a student collaborating on a group project, a professional managing business documents, or simply someone who wants their files safe and accessible everywhere, Google Drive is the most reliable and capable cloud storage solution available today.",
+    "size": 35.4,
+    "reviews": 188000,
+    "ratingAvg": 4.4,
+    "downloads": 5300000,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 52000 },
+      { "name": "5 star", "count": 117800 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/pinterest--v1.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 20,
+    "description": "Pinterest occupies a unique and irreplaceable position in the social media landscape as the internet's premier visual discovery engine, designed not for sharing your life but for imagining the life you want to build. Unlike platforms driven by likes and followers, Pinterest is fundamentally about ideas, inspiration, and aspiration, making it a profoundly positive and motivating environment that users return to when they want to dream and plan. The algorithm learns your aesthetic preferences with remarkable accuracy over time, continuously refining your home feed to show you images and ideas that genuinely resonate with your personal taste.\n\nBoards allow you to organize saved pins into curated collections on any topic imaginable, from wedding inspiration and home renovation plans to recipe collections and travel bucket lists. Secret boards let you save ideas privately for personal projects or surprise gifts without sharing them publicly. The search functionality is visually oriented, allowing you to search by image in addition to text, making it possible to find similar styles and products even when you cannot articulate exactly what you are looking for in words. Idea Pins are multi-page visual stories that creators use to share tutorials, recipes, and guides in an engaging and interactive format.\n\nShopping features connect Pinterest inspiration directly to purchase, with product pins linking to retailer websites and making the journey from discovery to acquisition beautifully seamless. Business accounts provide analytics tools that help brands understand how their content performs and what drives traffic to their websites. Pinterest Lens uses your camera to identify objects and find visually similar ideas, turning the physical world into a source of digital inspiration. Whether you are planning a renovation, building a mood board, curating recipes, or simply seeking daily doses of beauty and creativity, Pinterest is the most inspiring corner of the internet and a platform that consistently leaves you feeling motivated and full of ideas.",
+    "size": 44.7,
+    "reviews": 162000,
+    "ratingAvg": 4.3,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 48000 },
+      { "name": "5 star", "count": 91800 }
+    ]
+  }
+]
