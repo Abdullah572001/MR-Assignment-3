@@ -5,9 +5,8 @@ const Loader = () => {
   return (
     <div>
       <div className="loader-container">
-        <p>
-          L<img className="spinner" src={logo} alt="" />oading...
-        </p>
+        <img className="spinner" src={logo} alt="" />
+        <span className="text-4xl font-bold">Loading...</span>
       </div>
     </div>
   );
