@@ -3,25 +3,37 @@ import Root from "../Root";
 import Home from "../pages/Home/Home";
 import Loader from "../components/Loader/Loader";
 import AppDetails from "../pages/AppDetails/AppDetails";
+import AllApps from "../pages/AllApps/AllApps";
+import Error from "../pages/Error/Error";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
-    children : [
+    children: [
       {
-        index : true,
-        path : '/',
-        loader : () => fetch('/appsData.json'),
-        HydrateFallback : Loader,
-        Component : Home,
+        index: true,
+        path: "/",
+        loader: () => fetch("/appsData.json"),
+        HydrateFallback: Loader,
+        Component: Home,
       },
       {
-        path : '/home/:id',
-        loader : () => fetch('/appsData.json'),
-        HydrateFallback : Loader,
-        Component : AppDetails,
-      }
-    ]
+        path: "/home/:id",
+        loader: () => fetch("/appsData.json"),
+        HydrateFallback: Loader,
+        Component: AppDetails,
+      },
+      {
+        path: "/apps",
+        loader: () => fetch("/appsData.json"),
+        HydrateFallback: Loader,
+        Component: AllApps,
+      },
+      {
+        path: "*",
+        Component: Error,
+      },
+    ],
   },
 ]);

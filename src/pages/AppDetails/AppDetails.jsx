@@ -15,7 +15,7 @@ const AppDetails = () => {
   // console.log(id)
   const app = appsData.find((single) => single.id === parseInt(id));
   // console.log(app)
-  const {ratings} = app;
+  const {ratings, description} = app;
 
   return (
     <div className="bg-[linear-gradient(180deg,#EEF0F5_0%,#F8F9FC_100%)]">
@@ -74,6 +74,13 @@ const AppDetails = () => {
         <div className="">
           <RatingsChart ratings={ratings}></RatingsChart>
         </div>
+
+        <hr className="border-gray-300 my-8" />
+
+        <h2 className="text-2xl font-bold mb-4">Description</h2>
+        {
+            description.map((des, index) => <p key={index} className="text-gray-500 mb-4 leading-8">{des}</p>)
+        }
       </div>
     </div>
   );

@@ -10,10 +10,10 @@ const Navbar = () => {
 
   const navbarList = (
     <>
-      <NavLink className="px-4 py-2 active:bg-blue-50 active:translate-y-1 transition active:shadow-2xl">
+      <NavLink to='/' className="px-4 py-2 active:bg-blue-50 active:translate-y-1 transition active:shadow-2xl">
         Home
       </NavLink>
-      <NavLink className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">
+      <NavLink to='/apps' className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">
         Apps
       </NavLink>
       <NavLink className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">

@@ -9,7 +9,7 @@ const App = ({ app }) => {
   return (
     <Link to={`/home/${app.id}`} className="p-6 bg-white rounded-xl shadow-md space-y-4">
       <img
-        className="w-full bg-gray-200 rounded-xl p-6"
+        className="w-full h-auto bg-gray-200 rounded-xl p-6"
         src={app.image}
         alt=""
       />
