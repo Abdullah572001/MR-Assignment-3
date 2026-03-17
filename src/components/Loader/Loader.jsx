@@ -1,13 +1,16 @@
-import React from 'react';
-import logo from '../../assets/logo.png'
+import React from "react";
+import logo from "../../assets/logo.png";
 
 const Loader = () => {
-    return (
-        <div>
-            <img src={logo} alt="" />
-            <h2></h2>
-        </div>
-    );
+  return (
+    <div>
+      <div className="loader-container">
+        <p>
+          L<img className="spinner" src={logo} alt="" />oading...
+        </p>
+      </div>
+    </div>
+  );
 };
 
 export default Loader;

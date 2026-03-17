@@ -7,13 +7,13 @@ import { useLoaderData } from 'react-router';
 const Home = () => {
 
     const appsData = useLoaderData();
-    console.log(appsData)
+    // console.log(appsData)
 
     return (
         <div>
             <Banner></Banner>
             <History></History>
-            <TrendingApps></TrendingApps>
+            <TrendingApps appsData={appsData}></TrendingApps>
         </div>
     );
 };
