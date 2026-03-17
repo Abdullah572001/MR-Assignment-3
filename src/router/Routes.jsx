@@ -5,6 +5,7 @@ import Loader from "../components/Loader/Loader";
 import AppDetails from "../pages/AppDetails/AppDetails";
 import AllApps from "../pages/AllApps/AllApps";
 import Error from "../pages/Error/Error";
+import ErrorPage2 from "../pages/ErrorPage2/ErrorPage2";
 
 export const router = createBrowserRouter([
   {

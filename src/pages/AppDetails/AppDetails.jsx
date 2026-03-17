@@ -1,21 +1,36 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { formatNumber } from "../../utility/formatNumber";
 import downloadIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
 import likeIcon from "../../assets/icon-review.png";
 import RatingsChart from "../RatingChart/RatingChart";
-
+import {
+  getFromLocalStorage,
+  saveToLocalStorage,
+} from "../../utility/localStorage";
+import { toast } from "react-toastify";
 
 const AppDetails = () => {
-
   const appsData = useLoaderData();
 
   const { id } = useParams();
   // console.log(id)
   const app = appsData.find((single) => single.id === parseInt(id));
   // console.log(app)
-  const {ratings, description} = app;
+
+  const [installed, setInstalled] = useState(() => {
+    const installApps = getFromLocalStorage();
+    return installApps.includes(app.id);
+  });
+
+  const { ratings, description } = app;
+
+  const handleInstallBtn = (id) => {
+    saveToLocalStorage(id);
+    setInstalled(true)
+    toast('The app has been installed successfully')
+  };
 
   return (
     <div className="bg-[linear-gradient(180deg,#EEF0F5_0%,#F8F9FC_100%)]">
@@ -63,8 +78,12 @@ const AppDetails = () => {
               </div>
             </div>
 
-            <button className="btn bg-[#00D390] text-white">
-              Install Now ({app.size}MB)
+            <button
+            disabled={installed}
+              onClick={() => handleInstallBtn(app.id)}
+              className="btn bg-[#00D390] text-white"
+            >
+              {installed ? "Installed" : `Install Now (${app.size}MB)`}
             </button>
           </div>
         </div>
@@ -78,9 +97,11 @@ const AppDetails = () => {
         <hr className="border-gray-300 my-8" />
 
         <h2 className="text-2xl font-bold mb-4">Description</h2>
-        {
-            description.map((des, index) => <p key={index} className="text-gray-500 mb-4 leading-8">{des}</p>)
-        }
+        {description.map((des, index) => (
+          <p key={index} className="text-gray-500 mb-4 leading-8">
+            {des}
+          </p>
+        ))}
       </div>
     </div>
   );

@@ -1,21 +1,27 @@
 import React, { useState } from "react";
 import { useLoaderData } from "react-router";
 import App from "../App/App";
+import Loader from "../../components/Loader/Loader";
+import ErrorPage2 from "../ErrorPage2/ErrorPage2";
 
 const AllApps = () => {
-
-    const [input, setInput] = useState('');
+  const [input, setInput] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
   const appsData = useLoaderData();
   // console.log(appsData)
 
-  
-    const searchApp = appsData.filter(app => app.title.toLowerCase().includes(input.toLocaleLowerCase()));
-    // console.log(searchApp)
+  const searchApp = appsData.filter((app) =>
+    app.title.toLowerCase().includes(input.toLocaleLowerCase()),
+  );
+  // console.log(searchApp)
 
   const handleOnChange = (e) => {
-    // console.log(e.target.value)
-    setInput(e.target.value);
+    setIsLoading(true);
+    setTimeout(() => {
+      setInput(e.target.value);
+      setIsLoading(false);
+    }, 1000);
   };
 
   return (
@@ -45,13 +51,26 @@ const AllApps = () => {
                 <path d="m21 21-4.3-4.3"></path>
               </g>
             </svg>
-            <input type="search" required placeholder="search Apps"  onChange={handleOnChange}/>
+            <input
+              type="search"
+              required
+              placeholder="search Apps"
+              onChange={handleOnChange}
+            />
           </label>
         </div>
 
-        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-8'>
-                    {searchApp.map(app => <App key={app.id} app={app}></App>)}
-                </div>
+        {isLoading ? (
+          <Loader />
+        ) : searchApp.length === 0 ? (
+          <ErrorPage2></ErrorPage2>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
+            {searchApp.map((app) => (
+              <App key={app.id} app={app}></App>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );

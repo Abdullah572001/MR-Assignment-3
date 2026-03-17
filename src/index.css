@@ -26,3 +26,8 @@
     transform: rotate(360deg);
   }
 }
+
+a.active {
+  color: #9F62F2;
+  text-decoration: underline;
+}
