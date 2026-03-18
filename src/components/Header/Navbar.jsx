@@ -16,7 +16,7 @@ const Navbar = () => {
       <NavLink to='/apps' className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">
         Apps
       </NavLink>
-      <NavLink className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">
+      <NavLink to='/installation' className="active:bg-blue-50 px-4 py-2 active:translate-y-1 transition active:shadow-2xl">
         Installation
       </NavLink>
     </>

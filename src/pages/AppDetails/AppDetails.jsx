@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { formatNumber } from "../../utility/formatNumber";
 import downloadIcon from "../../assets/icon-downloads.png";
@@ -29,7 +29,7 @@ const AppDetails = () => {
   const handleInstallBtn = (id) => {
     saveToLocalStorage(id);
     setInstalled(true)
-    toast('The app has been installed successfully')
+    toast.success('The app has been installed successfully')
   };
 
   return (

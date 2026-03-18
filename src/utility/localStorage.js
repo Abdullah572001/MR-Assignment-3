@@ -21,5 +21,16 @@ const saveToLocalStorage = id => {
     localStorage.setItem('installed', installAppsStr)
 }
 
+const removeFromLocalStorage = id => {
 
-export {getFromLocalStorage, saveToLocalStorage};
+    
+    // console.log(installedApps);
+
+    
+    
+
+    // newInstalledApps.map(singleId => saveToLocalStorage(singleId))
+}
+
+
+export {getFromLocalStorage, saveToLocalStorage, removeFromLocalStorage};
