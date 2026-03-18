@@ -5,7 +5,7 @@ import { Link } from 'react-router';
 const ErrorPage2 = () => {
     return (
         <div className='grid justify-center items-center mt-10'>
-            <img src={appError} alt="" />
+            <img className="ml-4 lg:ml-12" src={appError} alt="" />
             <h2 className='text-4xl font-bold mt-6 text-center'>OPPS!! APP NOT FOUND</h2>
             <p className='text-gray-500 mt-6 text-center'>The App you are requesting is not found on our system.  please try another apps</p>
 

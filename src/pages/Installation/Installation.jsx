@@ -3,12 +3,13 @@ import { useLoaderData } from "react-router";
 import { getFromLocalStorage } from "../../utility/localStorage";
 import InstalledApps from "../InstalledApp/InstalledApps";
 import { toast } from "react-toastify";
+import ErrorPage3 from "../ErrorPage/ErrorPage3";
 
 const Installation = () => {
   const appsData = useLoaderData();
   // console.log(appsData);
 
-  const [name, setName] = useState('');
+  const [name, setName] = useState("");
   const [installedApps, setInstalledApps] = useState(() => {
     const ids = getFromLocalStorage();
     return appsData.filter((app) => ids.includes(app.id));
@@ -25,14 +26,13 @@ const Installation = () => {
   };
 
   const handleSortBtn = (to) => {
-
     const sorted = [...installedApps];
 
     if (to === "highToLow") {
-      setName("High-Low")
+      setName("High-Low");
       sorted.sort((a, b) => b.downloads - a.downloads);
     } else if (to === "lowToHigh") {
-      setName("Low-High")
+      setName("Low-High");
       sorted.sort((a, b) => a.downloads - b.downloads);
     }
 
@@ -54,9 +54,7 @@ const Installation = () => {
 
           <div className="dropdown mb-4 lg:mb-0">
             <div tabIndex={0} role="button" className="btn m-1">
-              {
-                name ? name : 'Sort by Downloads'
-              }
+              {name ? name : "Sort by Downloads"}
             </div>
             <ul
               tabIndex="-1"
@@ -73,13 +71,17 @@ const Installation = () => {
         </div>
 
         <div>
-          {installedApps.map((app) => (
-            <InstalledApps
-              key={app.id}
-              app={app}
-              handleUninstallBtn={handleUninstallBtn}
-            ></InstalledApps>
-          ))}
+          {installedApps.length === 0 ? (
+            <ErrorPage3></ErrorPage3>
+          ) : (
+            installedApps.map((app) => (
+              <InstalledApps
+                key={app.id}
+                app={app}
+                handleUninstallBtn={handleUninstallBtn}
+              ></InstalledApps>
+            ))
+          )}
         </div>
       </div>
     </div>
