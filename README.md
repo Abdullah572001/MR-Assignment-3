@@ -1,12 +1,91 @@
-# React + Vite
+# HERO.IO — App Discovery Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+HERO.IO is your ultimate destination for discovering, exploring, and installing the most innovative and powerful applications available today. Built for modern users, it delivers a seamless browsing experience with detailed app insights, ratings, and reviews — all in one beautifully designed platform. Users can search apps, view detailed statistics, install or uninstall apps, and explore ratings through interactive charts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [Hero-io.netlify.app](https://flourishing-piroshki-e22ce8.netlify.app/)<br/>
+🔗 [Hero-io.Surge.sh](https://mr-assignment-3-abdullah-2001.surge.sh)
+
+---
+
+## 🛠️ Technologies
+
+### Frontend
+- **React.js** — UI library
+- **React Router v7** — Client-side routing
+- **Tailwind CSS v4** — Utility-first styling
+- **DaisyUI** — Tailwind component library
+
+### Data & State
+- **LocalStorage** — Installed apps persistence
+- **React Hooks** — `useState`, `useEffect`, `useRef`
+- **useLoaderData** — Data fetching with React Router loader
+
+### Charts & UI
+- **Recharts** — Interactive bar charts for ratings
+- **React Toastify** — Beautiful toast notifications
+- **React Icons** — Icon library
+
+### Tools
+- **Vite** — Fast build tool
+- **Netlify** — Deployment platform
+
+---
+
+## 📁 Project Structure
+```
+src/
+  ├── assets/
+  ├── components/
+  │   ├── Banner/
+  │   ├── Footer/
+  │   ├── Header/
+  │   ├── Loader/
+  │   └── Root/
+  ├── pages/
+  │   ├── Home/
+  │   ├── AllApps/
+  │   ├── AppDetails/
+  │   ├── Installation/
+  │   ├── Error/
+  │   ├── ErrorPage2/
+  │   ├── ErrorPage3/
+  │   ├── History/
+  │   ├── InstalledApps/
+  │   ├── RatingChart/
+  │   └── TrendingApps/
+  ├── utility/
+  │   ├── localStorage.js
+  │   └── formatNumber.js
+  └── router/
+      └── routes.jsx
+```
+
+---
+
+## ✨ Features
+
+- 🔍 Real-time app search
+- 📊 Interactive ratings bar chart
+- 💾 Install & uninstall apps with localStorage
+- 🔔 Toast notifications on actions
+- 📱 Fully responsive design
+- 🔃 Sort installed apps by downloads
+- 🎨 Beautiful gradient UI
+
+---
+
+
+## 👨‍💻 Author
+
+**Abdullah**
+🔗 [github.com/Abdullah572001](https://github.com/Abdullah572001)
+
+---
+
+> ⭐ If you like this project, give it a star on GitHub!
