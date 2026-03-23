@@ -19,7 +19,7 @@ const Installation = () => {
     const newInstalledApps = installedApps.filter((app) => app.id !== id);
     setInstalledApps(newInstalledApps);
 
-    const installAppsStr = JSON.stringify(newInstalledApps);
+    const installAppsStr = JSON.stringify(newInstalledApps.map(app => app.id));
     localStorage.setItem("installed", installAppsStr);
 
     toast.success("This app is uninstalled");

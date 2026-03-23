@@ -21,7 +21,7 @@ export const router = createBrowserRouter([
         Component: Home,
       },
       {
-        path: "/home/:id",
+        path: "/apps/:id",
         loader: () => fetch("/appsData.json"),
         HydrateFallback: Loader,
         Component: AppDetails,

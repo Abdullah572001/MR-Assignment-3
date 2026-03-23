@@ -81,7 +81,7 @@ const AppDetails = () => {
             <button
             disabled={installed}
               onClick={() => handleInstallBtn(app.id)}
-              className="btn bg-[#00D390] text-white"
+              className={`btn bg-[#00D390] text-white ${installed ? 'bg-blue-700' : ''}`}
             >
               {installed ? "Installed" : `Install Now (${app.size}MB)`}
             </button>

@@ -8,8 +8,9 @@ HERO.IO is your ultimate destination for discovering, exploring, and installing 
 
 ## 🚀 Live Demo
 
-🔗 [Hero-io.netlify.app](https://flourishing-piroshki-e22ce8.netlify.app/)<br/>
-🔗 [Hero-io.Surge.sh](https://mr-assignment-3-abdullah-2001.surge.sh)
+🔗 [Hero-io.netlify.app](https://flourishing-piroshki-e22ce8.netlify.app)<br/>
+🔗 [Hero-io.Surge.sh](https://mr-assignment-3-abdullah-2001.surge.sh)<br />
+🔗 [Hero-io.vercel.app](mr-assignment-3.vercel.app)
 
 ---
 

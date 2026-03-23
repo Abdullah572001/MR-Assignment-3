@@ -55,7 +55,7 @@ const Navbar = () => {
         <div>
           <a
             className="flex items-center gap-1 text-white btn bg-[linear-gradient(135deg,#632EE3_0%,#9F62F2_100%)]"
-            href="https://github.com/Abdullah572001/MR-Assignment-3"
+            href="https://github.com/Abdullah572001"
             target="_blank"
           >
             <FaGithub />
